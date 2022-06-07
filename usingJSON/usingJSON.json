@@ -1,0 +1,21 @@
+{
+    "person": [{
+            "firstName": "Clark",
+            "lastName": "Kent",
+            "job": "Reporter",
+            "city": "Metropolis"
+        },
+        {
+            "firstName": "Bruce",
+            "lastName": "Wayne",
+            "job": "Playboy",
+            "city": "Gotham City"
+        },
+        {
+            "firstName": "Peter",
+            "lastName": "Parker",
+            "job": "Photographer",
+            "city": "New York"
+        }
+    ]
+}
